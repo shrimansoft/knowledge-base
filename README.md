@@ -1,5 +1,5 @@
 <h1 align="center">
-    Logseq-Hugo-Template
+    Logseq-Hugo-Template 
 </h1>
 
 <p align="center">
