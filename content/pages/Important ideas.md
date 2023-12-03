@@ -1,14 +1,13 @@
 ---
 graph-hide: true
+category: Thinking
 icon: 📌
 title: Important ideas
-tags:
-categories:
+tags: [test,think]
+categories: Thinking
 date: 2023-12-02
 lastMod: 2023-12-03
 ---
-
-
 [Reinforcement Learning]({{< ref "/pages/Reinforcement Learning" >}})
 
 Consciousness
@@ -31,11 +30,7 @@ Reprasentation
 
 learning
 
-
-
-
-
-Most impotent ideas to connect.
+### Images of Important Ideas
 
 ![unnamed.jpg](/assets/unnamed_1695518758533_0.jpg)
 
@@ -56,8 +51,6 @@ Most impotent ideas to connect.
   + World view
 
   + Different feeling
-
-    + 
 
     + Randomness/ Predictability.
 
