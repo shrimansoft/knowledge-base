@@ -1,9 +1,10 @@
 ---
 graph-hide: true
 category: Thinking
+tags:
+- Modularity
 icon: 📌
 title: Important ideas
-tags: [test,think]
 categories: Thinking
 date: 2023-12-02
 lastMod: 2023-12-03
@@ -12,7 +13,7 @@ lastMod: 2023-12-03
 
 Consciousness
 
-Modularity
+[Modularity]({{< ref "/pages/Modularity" >}})
 
 Causal inference
 
@@ -46,7 +47,7 @@ learning
 
   + action = observation
 
-  + Circle of time.
+  + [Circle of time.]({{< ref "/pages/Circle of time." >}})
 
   + World view
 
