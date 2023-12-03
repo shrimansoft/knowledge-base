@@ -1,8 +1,8 @@
-baseURL: https://shrimansoft.github.io/knowledge-base
+baseURL: https://shrimansoft.github.io
 languageCode: en-us
 title: Shriman Keshri
 theme: "PaperMod"
-relativeURLs: true
+# relativeURLs: true
 
 
 params:
