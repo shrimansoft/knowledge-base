@@ -4,10 +4,15 @@ title: Markove decision process
 tags:
 categories:
 date: 2023-12-02
-lastMod: 2023-12-02
+lastMod: 2023-12-04
 ---
-![image.png](/assets/image_1679864939461_0.png)
-caption:: RL interaction Dynamics
+id:: 6480345f-4734-4296-ab89-5203b50f3c33
+{{< logseq/orgCENTER >}}![image.png](/assets/image_1679864939461_0.png)
+{{< / logseq/orgCENTER >}}
+
+{{< logseq/orgCENTER >}}RL interaction Dynamics
+{{< / logseq/orgCENTER >}}
+
 Markove decision process is a mathematical model.
 
 > When we fix the **policy**, the above process becomes automatic. It will just run and run.

@@ -4,33 +4,29 @@ title: Modularity
 tags:
 categories:
 date: 2023-12-02
-lastMod: 2023-12-03
+lastMod: 2023-12-04
 ---
 ## Thought
 
 
   + The complexity of the system increases when we go from atoms to Organism.
 
-  + We can understand And Realise Some of the above structures of the system to predict what will happen to the system. #sub representation #randomness
+  + We can understand And Realise Some of the above structures of the system to predict what will going happen to the system. #sub-representation #randomness
 
   + That is good, but why is there modularity in nature itself?
 
-  + what is the reasion? why does one world want to control another world 
-background-color:: red
+  + what is the reason? why does one world want to control another world 
 why why?
 
   + We can say something exists that's why it exists.
-background-color:: blue
 
   + To exist, the world wants control over another world !!
 
   + To exist, do we want control over the other world?
 
   + why does the world need control over other world to exist?
-background-color:: red
 
     + is there something more fundamental we need from another world?
-background-color:: red
 
   + REMARK: abstract things don't exist on their own. Some abstract concepts exist with time. 
 so, this abstract idea needs control over another world to get something.
@@ -81,13 +77,16 @@ When a learning system uses other learning systems to solve some task, if the se
   + we can write it as 
   $$ f_i : R^n \rightarrow R \textbf{ where  } i \in {1,..,m} $$
 
-  + 
-> If you are trying to tarin a function approximator to clone the function $f$. 
-There are two possible causes: 
-**Case1:**  $\forall  i$, $f_i$ is independent, then whether we train this function independently or together doesn't matter. 
-**Case2:** if the parameters depend on each other, we have to train them together to get more efficiency.
+  + > If you are trying to tarin a function approximator to clone the function $f$. 
+There are two possible causes:
 
     + There is a picture, and a good explanation of this is given in a photo.  Add the photo here
+
+  + #### Case1:  
+$\forall  i$, $f_i$ is independent, then whether we train this function independently or together doesn't matter.
+
+  + #### Case2:
+if the parameters depend on each other, we have to train them together to get more efficiency.
 
   + Experimental verification of the above hypothesis: generate the data from a well-defined function $F:\mathbb{R}^m \rightarrow \mathbb{R}^n$. Then we train a neural network to mimic it. Yes, we can do that, but we will first train it to predict the $F_i$ individually and computer it by teaching the hole function.
 

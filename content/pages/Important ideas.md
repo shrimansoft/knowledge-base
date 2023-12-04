@@ -25,7 +25,7 @@ Language ( giving identity to our feelings)
 
 randomness
 
-sub representation
+sub-representation
 
 Reprasentation
 

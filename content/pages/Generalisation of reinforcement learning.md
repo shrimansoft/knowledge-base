@@ -6,7 +6,7 @@ title: Generalisation of reinforcement learning
 tags:
 categories:
 date: 2023-12-02
-lastMod: 2023-12-02
+lastMod: 2023-12-04
 ---
 > What do we mean my generalization?
 
@@ -18,25 +18,12 @@ So for us( an agent) what other agents are look like? what is in the eye of a ag
 
 so lets begin our journey with tools.
 
-
-
 To generalise the RL structure, We generalise how we see the **Agent World Interaction**. such that every thing is an agent ( i.e. some thing that can perceive and has ability to evolve).
-
-
-
-
-
-
 
 Such that it includes the concept of tools.
 
 We can see how this will look in the Agent World Interaction. But our challenge is to make it mathematically precise, i.e. how will this come in when we model the interaction dynamics using the MDP?
-
 So after we try to model this general structure like [Markove decision process]({{< ref "/pages/Markove decision process" >}}), let us call this General_MDP.
-
-id:: 642d76c2-3750-46a9-ae19-f35e1d4c6585
-
-
 
 So right now, the {{< logseq/mark >}}big challenges{{< / logseq/mark >}} I have to make this General_MDP and how can we introduce [Modularity]({{< ref "/pages/Modularity" >}}) in this.
 
