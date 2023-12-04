@@ -6,7 +6,7 @@ title: Unfolding
 tags:
 categories:
 date: 2023-12-02
-lastMod: 2023-12-03
+lastMod: 2023-12-04
 ---
 What I mean when I say unfolding. It's like something was folded before, and now we are unfolding it. So, what do we mean? I like to talk about this thing with examples of this unfolding.
 

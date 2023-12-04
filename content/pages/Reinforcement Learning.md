@@ -25,4 +25,4 @@ Important terms in RL.
 
   + **Model of environment**
 
-Markove decision process
+[Markove decision process]({{< ref "/pages/Markove decision process" >}})

@@ -100,13 +100,8 @@ There are two possible causes:
 
 ## Modularity and **evolvability**
 
-
   + “A major contributor to evolvability is the fact that many biological entities are modular” [^1]
 
   + “Modularly varying goals seem to push populations away from local fitness maxima and guide them toward evolvable and modular solutions.”[^1]
 
-  + References:
-
-    + [^1]: J. Clune, J.-B. Mouret, and H. Lipson, “The evolutionary origins of modularity,” *Proceedings of the Royal Society B: Biological Sciences*, vol. 280, no. 1755, p. 20122863, Mar. 2013, doi: [10/gfzdrv](https://doi.org/10/gfzdrv).
-
-
+[^1]: J. Clune, J.-B. Mouret, and H. Lipson, “The evolutionary origins of modularity,” *Proceedings of the Royal Society B: Biological Sciences*, vol. 280, no. 1755, p. 20122863, Mar. 2013, doi: [10/gfzdrv](https://doi.org/10/gfzdrv).
