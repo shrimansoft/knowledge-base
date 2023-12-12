@@ -6,70 +6,55 @@ categories:
 date: 2023-12-02
 lastMod: 2023-12-04
 ---
-id:: 6480345f-4734-4296-ab89-5203b50f3c33
-{{< logseq/orgCENTER >}}![image.png](/assets/image_1679864939461_0.png)
-{{< / logseq/orgCENTER >}}
-
 {{< logseq/orgCENTER >}}RL interaction Dynamics
 {{< / logseq/orgCENTER >}}
 
-Markove decision process is a mathematical model.
+Markov decision process is a mathematical model.
+
+{{< logseq/orgCENTER >}}![image.png](/assets/image_1679864939461_0.png)
+{{< / logseq/orgCENTER >}}
 
 > When we fix the **policy**, the above process becomes automatic. It will just run and run.
 
 Because of a **lack of knowledge**, we use probability in this. #randomness
 
-The above [interaction dynamics](logseq://graph/game?block-id=6480345f-4734-4296-ab89-5203b50f3c33) can be studied using the MDP. So here the MDP comes in picture.
+The above interaction dynamics can be studied using the MDP. So here, the MDP comes into the picture.
 
 The MDP is how the agent sees his interaction with the world.
 
-  + Let me elaborate on this and give a picture of where this idea will fit in the scheme of World view. So, we start our story with two players one is our robot $R$ and is the enlivenment where the robot acts say $E$. 
+Let me elaborate on this and show where this idea will fit in the scheme of World view. So, we start our story with two players. One is our robot $R$, and the other one is environment $E$, where the robot $R$ acts on environment $E$. 
+ 
 
-Now there is up to how is thinking about all these interactions. Here the person who is thinking about the interaction says $Thinker$. 
+Now, This is up to how is thinking about all these interactions. Here, the person who is thinking about the interactions. We call it *Thinker* $T$. 
+ 
 
-The question is, where is this MDP? The MDP is modelled by the $Thinker$ and placed in side the code/brain of $R$. What this MDP is representing. Its representing the dynamics of the interaction between $R$ and $E$. alring. 
+Where is this MDP? The MDP is modeled by the *Thinker* $T$, then placed in the code/brain of *robot* $R$. 
 
-So, what we get from this? that there is complete interaction dynamics which is going in side the head of $R$ which is some partial representaiton of the real dynamics which is going to happen on real. 
+MDP is representing what? It represents the dynamics of the interaction between *robot* $R$ and the environment $E$.
 
-very good. now we can see there is two interaction flow one is on real-world where real robot build of moters, battery and chipes is action on the environment. and the other one which is action in the head of the $R$. 
+alring. 
 
-but the point the concern me is this. The model of the is not build by the $R$ or some code in side the $R$. its someting we crated and placed in the $R$ . But in case of us we human we found the interaction dynamics by our own. 
+So, What are we getting from this? There are interaction dynamics, which are the partial representation of real interaction dynamics, which happen in the head of the *robot* $R$. 	  
 
-The question this leades me to are: 
-How we know that we are not the part of this enviroment? how do we com and get awear the table is not the same as pen. how do we know how to interacte with them and how the concept of tool which say make us not only awear of how we interact in this world. but also. how on opject in the world interact with the other object in the world. 
+Very good. Now, we can see two interaction flows: one is in the real world, where the actual robot built of motors, battery, and ICS is action on the environment, and the other is in the head of the *robot* $R$. 
 
-Remark: at the above line where I write "object" is the world in the World view.
+But the point that concerns me is the model is not built by the *robot* $R$( or some code inside the $R$.) It's something we created and placed in the head of the *robot* $R$.On the other hand, in the case of humans, we found the interaction dynamics on our own. 
 
-  + Let me elaborate on this and give a picture of where this idea will fit in the scheme of World view. So, we start our story with two players one is our robot $R$ and is the enlivenment where the robot acts say $E$. 
+The above leads me to questions as follows: 
 
-Now there is up to how is thinking about all these interactions. Here the person who is thinking about the interaction says $Thinker$. 
+  + How do we know that we are not part of this environment? How do we know that the table is not the same as the pen, which is above it? How do we know how to interact with them? The tool concept made us aware of how we interact in this world and how an object interacts with other things in the world. 
 
-The question is, where is this MDP? The MDP is modelled by the $Thinker$ and placed in side the code/brain of $R$. What this MDP is representing. Its representing the dynamics of the interaction between $R$ and $E$. alring. 
+Remark: In the above line where I write "object" is the world in the World view.
 
-So, what we get from this? that there is complete interaction dynamics which is going in side the head of $R$ which is some partial representaiton of the real dynamics which is going to happen on real. 
+Let me elaborate on this and give a picture of where this idea will fit in the scheme of World view. So, we start our story with two players: one, our robot $R$, and another, the enlivenment where the robot acts. 
 
-very good. now we can see there is two interaction flow one is on real-world where real robot build of motors, battery and chips is action on the environment. and the other one which is action in the head of the $R$. 
+By looking at the above situation. I am going to propose an experimental challenge as follows: 
+ 
+**The Challenge**: Given a $agent world$ interaction. where the world is consist of two worlds say $world$ := $world 1$ <-> $world 2$. the challenge the agent has is to find the MDP which represent the $agent$ <-> $world$ to The MDP which is representing the $agent$ <-> $world 1$ <-> $world 2$. 
+ 
+ OK the next problem is how can we write the MDP with three interacting or three world. where each of them.
 
-but the point the concern for me is this. The model of this is not build by the $R$ or some code in side the $R$. its something we crated and placed in the $R$ . But in case of us we human we found the interaction dynamics by our own. 
-
-The question this leads me to are: 
-How we know that we are not the part of this environment? how do we come and get aware that the table is not the same as pen. how do we know interaction with them and how the concept of tool which say make us not only aware of how we interact in this world. but also. how on object in the world interact with the other object in the world. 
-
-Remark: at the above line where I write "object" is the world in the World view.
-
-  + By looking the the above challenge. I am going to propose an experiment challenge: 
-
-**The Challenge**: given a $agent$ <-> $world$ interaction. where the world is consist of two worlds say $world$ := $world 1$ <-> $world 2$. the challenge the agent has is to find the MDP which represent the $agent$ <-> $world$ to The MDP which is representing the $agent$ <-> $world 1$ <-> $world 2$. 
-
-OK the next problem is how can we write the MDP with three interacting or three world. where each of them.
-
-  + By looking the the above chalange. I am going to propose an experiment chalange: 
-
-**The Chalange**: given a $agent$ <-> $world$ interaction. where the world is consit of two worlds say $world$ := $world1$ <-> $world2$. the chanlage the agent has is he need to find the MDP which is representitng the $agent$ <-> $world$ to The MDP which is representing the $agent$ <-> $world1$ <-> $world2$. 
-
-OK the next problam is how can we write the MDP with three ingridinan or three world. where each of them.
-
-  + Triangular MDP
+Triangular MDP
 
 This MPP is the generalisation of the interaction with the world that Is and built. When you think about a bike, you don't see all the nuts and bolts. You see how it operates and how its state changes when you perform some action. the Idea of a bike is the MDP of the Bike in our head. 
 
