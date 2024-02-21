@@ -49,7 +49,7 @@ learning
 
   + [Circle of time]({{< ref "/pages/Circle of time" >}})
 
-  + World view
+  + [World view]({{< ref "/pages/World view" >}})
 
   + Different feeling
 

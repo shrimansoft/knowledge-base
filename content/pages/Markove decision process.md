@@ -27,9 +27,9 @@ The above interaction dynamics can be studied using the MDP. So here, the MDP co
 
 The MDP is how the agent sees his interaction with the world.
 
-Let me elaborate on this and show where this idea will fit in the scheme of World view. So, we start our story with two players. One is our robot $R$, and the other one is environment $E$, where the robot $R$ acts on environment $E$.
+Let me elaborate on this and show where this idea will fit in the scheme of [World view]({{< ref "/pages/World view" >}}). So, we start our story with two players. One is our robot $R$, and the other one is environment $E$, where the robot $R$ acts on environment $E$.
 
-Let me elaborate on this and show where this idea will fit in the scheme of World view. So, we start our story with two players. One is our robot $R$, and the other one is environment $E$, where the robot $R$ acts on environment $E$.
+Let me elaborate on this and show where this idea will fit in the scheme of [World view]({{< ref "/pages/World view" >}}). So, we start our story with two players. One is our robot $R$, and the other one is environment $E$, where the robot $R$ acts on environment $E$.
 
 Now, This is up to how is thinking about all these interactions. Here, the person who is thinking about the interactions. We call it *Thinker* $T$.
 
@@ -63,11 +63,11 @@ The above leads me to questions as follows:
 
   + How do we know that we are not part of this environment? How do we know that the table is not the same as the pen, which is above it? How do we know how to interact with them? The tool concept made us aware of how we interact in this world and how an object interacts with other things in the world. 
 
-Remark: In the above line where I write "object" is the world in the World view.
+Remark: In the above line where I write "object" is the world in the [World view]({{< ref "/pages/World view" >}}).
 
-Let me elaborate on this and give a picture of where this idea will fit in the scheme of World view. So, we start our story with two players: one, our robot $R$, and another, the enlivenment where the robot acts.
+Let me elaborate on this and give a picture of where this idea will fit in the scheme of [World view]({{< ref "/pages/World view" >}}). So, we start our story with two players: one, our robot $R$, and another, the enlivenment where the robot acts.
 
-Let me elaborate on this and give a picture of where this idea will fit in the scheme of World view. So, we start our story with two players: one, our robot $R$, and another, the enlivenment where the robot acts.
+Let me elaborate on this and give a picture of where this idea will fit in the scheme of [World view]({{< ref "/pages/World view" >}}). So, we start our story with two players: one, our robot $R$, and another, the enlivenment where the robot acts.
 
 By looking at the above situation. I am going to propose an experimental challenge as follows: 
  

@@ -11,7 +11,7 @@ How do our brain stores the information? it stores its information not in the fo
 
   + I am in search of general Database management system.
 
-  + This should Coherent with the World view.
+  + This should Coherent with the [World view]({{< ref "/pages/World view" >}}).
 
   + It will be just like a world i.e. it will have a input and output.
 
