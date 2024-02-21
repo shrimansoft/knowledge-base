@@ -25,7 +25,7 @@ Such that it includes the concept of tools.
 We can see how this will look in the Agent World Interaction. But our challenge is to make it mathematically precise, i.e. how will this come in when we model the interaction dynamics using the MDP?
 So after we try to model this general structure like [Markove decision process]({{< ref "/pages/Markove decision process" >}}), let us call this General_MDP.
 
-So right now, the {{< logseq/mark >}}big challenges{{< / logseq/mark >}} I have to make this General_MDP and how can we introduce [Modularity]({{< ref "/pages/Modularity" >}}) in this.
+So right now, the {{< logseq/mark >}}big challenges{{< / logseq/mark >}} I have to make this General_MDP and how can we introduce Modularity in this.
 
 Before I start and wonder about the above challenges. Let's see how the {{< logseq/mark >}}State and Observation{{< / logseq/mark >}} are in the view of MDP.
 

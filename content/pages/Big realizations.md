@@ -1,9 +1,10 @@
 ---
+graph-hide: true
 title: Big realizations
 tags:
 categories:
 date: 2023-12-02
-lastMod: 2023-12-04
+lastMod: 2024-02-15
 ---
 
 

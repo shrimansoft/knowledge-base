@@ -1,11 +1,16 @@
 ---
+alias:
+- MDP
 icon: 🐾
 title: Markove decision process
 tags:
 categories:
 date: 2023-12-02
-lastMod: 2023-12-04
+lastMod: 2024-01-12
 ---
+{{< logseq/orgCENTER >}}RL interaction Dynamics
+{{< / logseq/orgCENTER >}}
+
 {{< logseq/orgCENTER >}}RL interaction Dynamics
 {{< / logseq/orgCENTER >}}
 
@@ -22,31 +27,47 @@ The above interaction dynamics can be studied using the MDP. So here, the MDP co
 
 The MDP is how the agent sees his interaction with the world.
 
-Let me elaborate on this and show where this idea will fit in the scheme of World view. So, we start our story with two players. One is our robot $R$, and the other one is environment $E$, where the robot $R$ acts on environment $E$. 
- 
+Let me elaborate on this and show where this idea will fit in the scheme of World view. So, we start our story with two players. One is our robot $R$, and the other one is environment $E$, where the robot $R$ acts on environment $E$.
 
-Now, This is up to how is thinking about all these interactions. Here, the person who is thinking about the interactions. We call it *Thinker* $T$. 
- 
+Let me elaborate on this and show where this idea will fit in the scheme of World view. So, we start our story with two players. One is our robot $R$, and the other one is environment $E$, where the robot $R$ acts on environment $E$.
 
-Where is this MDP? The MDP is modeled by the *Thinker* $T$, then placed in the code/brain of *robot* $R$. 
+Now, This is up to how is thinking about all these interactions. Here, the person who is thinking about the interactions. We call it *Thinker* $T$.
+
+Where is this MDP? The MDP is modeled by the *Thinker* $T$, then placed in the code/brain of *robot* $R$.
+
+Now, This is up to how is thinking about all these interactions. Here, the person who is thinking about the interactions. We call it *Thinker* $T$.
+
+Where is this MDP? The MDP is modeled by the *Thinker* $T$, then placed in the code/brain of *robot* $R$.
 
 MDP is representing what? It represents the dynamics of the interaction between *robot* $R$ and the environment $E$.
 
-alring. 
+alring.
 
-So, What are we getting from this? There are interaction dynamics, which are the partial representation of real interaction dynamics, which happen in the head of the *robot* $R$. 	  
+alring.
 
-Very good. Now, we can see two interaction flows: one is in the real world, where the actual robot built of motors, battery, and ICS is action on the environment, and the other is in the head of the *robot* $R$. 
+So, What are we getting from this? There are interaction dynamics, which are the partial representation of real interaction dynamics, which happen in the head of the *robot* $R$.
 
-But the point that concerns me is the model is not built by the *robot* $R$( or some code inside the $R$.) It's something we created and placed in the head of the *robot* $R$.On the other hand, in the case of humans, we found the interaction dynamics on our own. 
+Very good. Now, we can see two interaction flows: one is in the real world, where the actual robot built of motors, battery, and ICS is action on the environment, and the other is in the head of the *robot* $R$.
 
-The above leads me to questions as follows: 
+But the point that concerns me is the model is not built by the *robot* $R$( or some code inside the $R$.) It's something we created and placed in the head of the *robot* $R$.On the other hand, in the case of humans, we found the interaction dynamics on our own.
+
+The above leads me to questions as follows:
+
+So, What are we getting from this? There are interaction dynamics, which are the partial representation of real interaction dynamics, which happen in the head of the *robot* $R$.
+
+Very good. Now, we can see two interaction flows: one is in the real world, where the actual robot built of motors, battery, and ICS is action on the environment, and the other is in the head of the *robot* $R$.
+
+But the point that concerns me is the model is not built by the *robot* $R$( or some code inside the $R$.) It's something we created and placed in the head of the *robot* $R$.On the other hand, in the case of humans, we found the interaction dynamics on our own.
+
+The above leads me to questions as follows:
 
   + How do we know that we are not part of this environment? How do we know that the table is not the same as the pen, which is above it? How do we know how to interact with them? The tool concept made us aware of how we interact in this world and how an object interacts with other things in the world. 
 
 Remark: In the above line where I write "object" is the world in the World view.
 
-Let me elaborate on this and give a picture of where this idea will fit in the scheme of World view. So, we start our story with two players: one, our robot $R$, and another, the enlivenment where the robot acts. 
+Let me elaborate on this and give a picture of where this idea will fit in the scheme of World view. So, we start our story with two players: one, our robot $R$, and another, the enlivenment where the robot acts.
+
+Let me elaborate on this and give a picture of where this idea will fit in the scheme of World view. So, we start our story with two players: one, our robot $R$, and another, the enlivenment where the robot acts.
 
 By looking at the above situation. I am going to propose an experimental challenge as follows: 
  

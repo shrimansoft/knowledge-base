@@ -13,7 +13,7 @@ lastMod: 2023-12-03
 
 Consciousness
 
-[Modularity]({{< ref "/pages/Modularity" >}})
+Modularity
 
 Causal inference
 
@@ -23,7 +23,7 @@ Ability to use tool
 
 Language ( giving identity to our feelings)
 
-randomness
+[randomness]({{< ref "/pages/randomness" >}})
 
 sub-representation
 
@@ -39,9 +39,9 @@ learning
 
   + RL
 
-  + randomness
+  + [randomness]({{< ref "/pages/randomness" >}})
 
-  + Exact sequence
+  + Exact sequencec
 
   + attention
 
@@ -78,3 +78,5 @@ learning
     + where is love
 
     + Attention??
+
+

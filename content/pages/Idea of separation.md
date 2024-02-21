@@ -28,4 +28,4 @@ ge
 
 
 #### Remark
-One more way to see this idea of separation is when a world realizes another world for achieving some control over it. By the constraints of randomness, we achieve sub-representation. During these subrepresations, the set of things mapped to one thing are called "things," which is the source of separation.
+One more way to see this idea of separation is when a world realizes another world for achieving some control over it. By the constraints of [randomness]({{< ref "/pages/randomness" >}}), we achieve sub-representation. During these subrepresations, the set of things mapped to one thing are called "things," which is the source of separation.
