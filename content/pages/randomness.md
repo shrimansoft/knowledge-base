@@ -12,7 +12,6 @@ Why do Turing machine with a coin is capable of something more?
 Why do Nature follow some law ( constraints) and why something are random ( free at least from the Ability of our thought)?
 ### Randomness $\to$ Evolution $\to$ RL
 
-
   + I was wondering from where this randomness comes. If we understand from where this randomness comes, we will know the source of the origin of Evolution. We will get the origin of learning in RL.
 
 ### What is randomness?

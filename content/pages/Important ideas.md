@@ -47,7 +47,7 @@ learning
 
   + action = observation
 
-  + Circle of time.
+  + [Circle of time]({{< ref "/pages/Circle of time" >}})
 
   + World view
 

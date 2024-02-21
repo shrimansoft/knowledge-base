@@ -38,5 +38,3 @@ More profound meditation is needed for the question :What is the inverse of unfo
 ## Open question:
 
 What is the inverse of the concept of unfolding? How do we understand the process by which the future becomes manifested in our minds before it has been acted upon?
-
-## Open question:
