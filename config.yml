@@ -9,8 +9,8 @@ canonifyURLs: true
 
 params:
   homeInfoParams:
-    Title: Sup bruh 😎
-    Content: This is something shows in your homepage.
+    Title: knowledge base 😎
+    Content: The following site is auto generated from my public notes. There can be mistakes and unclear writings. 
 
   socialIcons: # optional
     - name: "github"
