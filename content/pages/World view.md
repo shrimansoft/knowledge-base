@@ -1,9 +1,10 @@
 ---
-type:
+category:
 - Idea
 title: World view
 tags:
 categories:
+- Idea
 date: 2023-12-02
 lastMod: 2024-02-21
 ---

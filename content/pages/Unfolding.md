@@ -1,10 +1,11 @@
 ---
-type:
+category:
 - concept
 icon: 🌋
 title: Unfolding
 tags:
 categories:
+- concept
 date: 2023-12-02
 lastMod: 2023-12-04
 ---

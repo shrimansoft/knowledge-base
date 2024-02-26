@@ -1,9 +1,12 @@
 ---
 type:
 - concetp
+category:
+- concetp
 title: ability to use new tools
 tags:
 categories:
+- concetp
 date: 2023-12-02
 lastMod: 2024-02-21
 ---

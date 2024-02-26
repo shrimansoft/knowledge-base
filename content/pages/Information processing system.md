@@ -1,18 +1,27 @@
 ---
-type:
-- concetp
 alias:
 - IPS
+category:
+- concetp
 title: Information processing system
 tags:
 categories:
+- concetp
 date: 2023-12-02
-lastMod: 2024-02-21
+lastMod: 2024-02-26
 ---
-What is the meaning of this in our experience?
+The concept of Information processing system( IOP)  I read in the book [Superrecursive algorithms]({{< ref "/pages/Superrecursive algorithms" >}}).
+
+**Def:** Something that process information, I will have input, output and Processing unit. Although in the book they assumed the triadic structure of IOP. While in my writing I don't always assume that.
+
+![image.png](/assets/image_1708945137820_0.png)
+
+While I am working on the equality between action (output) and observation (input), sticking on the triad structure of IPS can lead to Inadequate results. #[action = observation]({{< ref "/pages/action = observation" >}})
+
+---
+
+We are also a information processing system. Wait and feel how it feel to be and Information processing system. Who it feels to be?
+
+---
 
 What is the meaning of this in the language of Process and Reality ?
-
-I got to know about this concept from the book super recursive algorithms. is that he started with the systems which he called information processing system. 
-
-Some things have some input some output and the information processing part.

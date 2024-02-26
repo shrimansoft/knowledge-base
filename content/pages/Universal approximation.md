@@ -21,6 +21,7 @@ Universal approximation + learning algorithm.
 
 ![🪵 Neural network.m4a](/assets/🪵_neural_network_1704987504697_0.m4a)
 
+
     + so I am reading a nice book nice chapter on universal approximation theorem the proof of the universal approximation theorem here at the beginning the author mentioned that the universal approximation theorem is good and cool thing but there are other things that has this capability of universal approximation for example the Boolean circuits but what is amazing about the neural network is that it comes with two things one is the universality the universality of its ability to approximate and the learning algorithm so this learning algorithm plus the universality makes it this neural network amazing
 
 

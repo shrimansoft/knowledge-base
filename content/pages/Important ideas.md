@@ -45,7 +45,7 @@ learning
 
   + attention
 
-  + action = observation
+  + [action = observation]({{< ref "/pages/action = observation" >}})
 
   + [Circle of time]({{< ref "/pages/Circle of time" >}})
 

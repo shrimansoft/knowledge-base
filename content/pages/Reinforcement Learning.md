@@ -2,11 +2,12 @@
 alias:
 - RL
 icon: 🤖
-type:
+category:
 - concetp
 title: Reinforcement Learning
 tags:
 categories:
+- concetp
 date: 2023-12-02
 lastMod: 2023-12-29
 ---

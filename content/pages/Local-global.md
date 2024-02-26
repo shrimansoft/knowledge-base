@@ -3,9 +3,9 @@ title: Local-global
 tags:
 categories:
 date: 2023-12-02
-lastMod: 2024-02-21
+lastMod: 2024-02-23
 ---
-{{renderer excalidraw, excalidraw-2023-09-26-14-20-26}}
+![image.png](/assets/image_1708685010824_0.png)
 
 ### Examples.
 
@@ -34,5 +34,3 @@ lastMod: 2024-02-21
 ### Sub-representation and Local-Global #sub-representation
 
   + ?
-
-
