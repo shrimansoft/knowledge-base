@@ -9,7 +9,7 @@ canonifyURLs: true
 
 params:
   homeInfoParams:
-    Title: knowledge base 😎
+    Title: Shared notes 🍀
     Content: The following site is auto generated from my public notes. There can be mistakes and unclear writings. 
 
   socialIcons: # optional
