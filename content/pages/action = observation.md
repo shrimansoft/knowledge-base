@@ -27,7 +27,7 @@ The future is hope, dreams, expectations, and predictions, comes to the present 
 
   + Choice, Some time we don't even have a choice for example suppose you predict that tomorrow the sun will rise. assuming that you are one of use ordinary human you can't do any thing. So, does we can say that the action is still yours? We still don't have much reason to not say its not your action.
 
-  + We can't say that its out of your will even though its very visible. But what if you are and you choose not to show it similar to [The black swan.]({{< ref "/pages/The black swan." >}}).
+  + We can't say that its out of your will even though its very visible. But what if you are and you choose not to show it similar to [The black swan]({{< ref "/pages/The black swan" >}}).
 
   + ## Freewill
 

@@ -2,17 +2,17 @@
 alias:
 - IPS
 category:
-- concetp
+- concept
 title: Information processing system
 tags:
 categories:
-- concetp
+- concept
 date: 2023-12-02
-lastMod: 2024-02-26
+lastMod: 2024-03-01
 ---
 The concept of Information processing system( IOP)  I read in the book [Superrecursive algorithms]({{< ref "/pages/Superrecursive algorithms" >}}).
 
-**Def:** Something that process information, I will have input, output and Processing unit. Although in the book they assumed the triadic structure of IOP. While in my writing I don't always assume that.
+**Def:** Something that process information, I will have input, output and Processing unit. Although in the book they assumed the triadic structure of IPS. While in my writing I don't always assume that.
 
 ![image.png](/assets/image_1708945137820_0.png)
 
