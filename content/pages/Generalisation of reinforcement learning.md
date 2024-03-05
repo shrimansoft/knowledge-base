@@ -20,7 +20,7 @@ so lets begin our journey with tools.
 
 To generalise the RL structure, We generalise how we see the **Agent World Interaction**. such that every thing is an agent ( i.e. some thing that can perceive and has ability to evolve).
 
-Such that it includes the concept of tools.
+Such that it includes the concept of [tools]({{< ref "/pages/tools" >}}).
 
 We can see how this will look in the Agent World Interaction. But our challenge is to make it mathematically precise, i.e. how will this come in when we model the interaction dynamics using the MDP?
 So after we try to model this general structure like [Markove decision process]({{< ref "/pages/Markove decision process" >}}), let us call this General_MDP.

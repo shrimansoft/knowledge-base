@@ -16,7 +16,7 @@ This comes from the fact that {{< logseq/mark >}}we can think inside our head{{<
 
 ## [Important ideas]({{< ref "/pages/Important ideas" >}})
 
-Transfer flexibility/[ability to use new tools]({{< ref "/pages/ability to use new tools" >}}). These two ideas were very similar.
+[Transfer flexibility]({{< ref "/pages/Transfer flexibility" >}})/[ability to use new tools]({{< ref "/pages/ability to use new tools" >}}). These two ideas were very similar.
 
   + Agent is doing something from his hand but now if I will give him some proper tool in his hand it is like changing the environment. Now learning to use the tool is similar to adopting to new environment.
 

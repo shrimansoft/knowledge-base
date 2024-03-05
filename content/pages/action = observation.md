@@ -6,12 +6,6 @@ categories: supposition, hypothesis
 date: 2023-12-02
 lastMod: 2024-02-26
 ---
-[Circle of time]({{< ref "/pages/Circle of time" >}})
-
-
-**13:34** quick capture:  ![2023-08-31-13-34-43](/assets/2023-08-31-13-34-43.png)
-
-
 ### Time, Action and Observation.
 
 # Future, Action, and Observation
@@ -19,21 +13,17 @@ lastMod: 2024-02-26
 #[action = observation]({{< ref "/pages/action = observation" >}})
 
   + ## Future and Action
-The future is hope, dreams, expectations, and predictions, comes to the present through action. There’s a catch though.
 
-  + Suppose there’s something I predicted, like what I will do next. Maybe I predicted that I would leave the place or do something, and I achieved that future through my action. But what if I predicted something over which I don’t have control? For instance, I predicted that a bud would become a flower. I don’t have control over that. It becomes a flower on its own. So, can I say it’s my action?
+The future, filled with hope, dreams, expectations, and predictions, comes to the present through action. There’s a catch though. Suppose there’s something I predicted, like what I will do next. Maybe I predicted that I would leave the place or do something, and I achieved that future through my action.
 
-  + Myopic look says, its not your action. but contrary it is also your action because you took the action of not cutting the flower, not killing the bird. You predicted that it would become flowers. In that sense, not harming the bird is an action that you took. It’s your choice.
-
-  + Choice, Some time we don't even have a choice for example suppose you predict that tomorrow the sun will rise. assuming that you are one of use ordinary human you can't do any thing. So, does we can say that the action is still yours? We still don't have much reason to not say its not your action.
-
-  + We can't say that its out of your will even though its very visible. But what if you are and you choose not to show it similar to [The black swan]({{< ref "/pages/The black swan" >}}).
+But what if I predicted something over which I don’t have control? For instance, I predicted that a bird would become a flower. I don’t have control over that. It becomes a flower on its own. So, can I say it’s my action? But it is also your action because you took the action of not cutting the flower, not killing the bird. You predicted that it would become flowers. In that sense, not harming the bird is an action that you took. It’s your choice.
 
   + ## Freewill
 
-  + There’s a problem though. There’s nothing called freewill. You are doing what you are supposed to do. I’m excited to write this because I’m looking for a precise answer.
+There’s a problem though. There’s nothing called freewill. You are doing what you are supposed to do. I’m excited to write this because I’m looking for a precise answer.
 
   + ## Action and Observation
+
 What is action and observation? There’s a future, there’s a past. The future comes to the present through action, and the present goes to the past through observation. What you observe will be in your past. What you haven’t observed is not in your pure past. Something you haven’t observed, what happened that day next to your room, you don’t know. That is not in your past.
 
   + ## Reinforcement Learning and World Structure

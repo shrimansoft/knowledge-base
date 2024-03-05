@@ -1,5 +1,6 @@
 ---
 graph-hide: true
+exclude-from-graph-view: true
 category: Thinking
 tags:
 - Modularity
@@ -13,8 +14,6 @@ lastMod: 2023-12-03
 
 Consciousness
 
-Modularity
-
 Causal inference
 
 Evolution
@@ -23,9 +22,7 @@ Ability to use tool
 
 Language ( giving identity to our feelings)
 
-[randomness]({{< ref "/pages/randomness" >}})
-
-sub-representation
+[Randomness]({{< ref "/pages/Randomness" >}})
 
 Reprasentation
 
@@ -35,11 +32,11 @@ learning
 
 ![unnamed.jpg](/assets/unnamed_1695518758533_0.jpg)
 
-  + tools
+  + [tools]({{< ref "/pages/tools" >}})
 
   + RL
 
-  + [randomness]({{< ref "/pages/randomness" >}})
+  + [Randomness]({{< ref "/pages/Randomness" >}})
 
   + Exact sequencec
 
@@ -48,8 +45,6 @@ learning
   + [action = observation]({{< ref "/pages/action = observation" >}})
 
   + [Circle of time]({{< ref "/pages/Circle of time" >}})
-
-  + [World view]({{< ref "/pages/World view" >}})
 
   + Different feeling
 

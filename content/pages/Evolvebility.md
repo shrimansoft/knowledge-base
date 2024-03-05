@@ -6,10 +6,10 @@ tags:
 categories:
 - concept
 date: 2023-08-29
-lastMod: 2024-03-01
+lastMod: 2024-03-02
 ---
-[Is evolvability evolvable?](https://www.nature.com/articles/nrg2278) Nice paper.
+Evolvebility is the ability of an organism to evolve. [^1]
 
+Referance:
 
-
-
+  + [^1]:Pigliucci, M. (2008). Is evolvability evolvable? Nature Reviews Genetics, 9(1), Article 1. https://doi.org/10/cdmqhs

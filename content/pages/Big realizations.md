@@ -1,5 +1,6 @@
 ---
 graph-hide: true
+exclude-from-graph-view: true
 title: Big realizations
 tags:
 categories:
