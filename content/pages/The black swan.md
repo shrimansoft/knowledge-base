@@ -2,8 +2,8 @@
 title: The black swan
 tags:
 categories:
-date: 2023-12-02
-lastMod: 2024-02-26
+date: 2024-05-21
+lastMod: 2024-05-21
 ---
 [Black swan theory - Wikipedia](https://en.wikipedia.org/wiki/Black_swan_theory)
 

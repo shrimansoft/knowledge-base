@@ -7,26 +7,26 @@ tags:
 icon: 📌
 title: Important ideas
 categories: Thinking
-date: 2023-12-02
-lastMod: 2023-12-03
+date: 2024-05-21
+lastMod: 2024-05-21
 ---
 [Reinforcement Learning]({{< ref "/pages/Reinforcement Learning" >}})
 
-Consciousness
+[[Consciousness]]
 
-Causal inference
+[[Causal inference]]
 
-Evolution
+[[Evolution]]
 
-Ability to use tool
+[[Ability to use tool]]
 
-Language ( giving identity to our feelings)
+[[Language]] ( giving identity to our feelings)
 
 [Randomness]({{< ref "/pages/Randomness" >}})
 
-Reprasentation
+[[Reprasentation]]
 
-learning
+[[learning]]
 
 ### Images of Important Ideas
 
@@ -34,15 +34,15 @@ learning
 
   + [tools]({{< ref "/pages/tools" >}})
 
-  + RL
+  + [[RL]]
 
   + [Randomness]({{< ref "/pages/Randomness" >}})
 
-  + Exact sequencec
+  + [[Exact sequencec]]
 
-  + attention
+  + [[attention]]
 
-  + [action = observation]({{< ref "/pages/action = observation" >}})
+  + [[action = observation]]
 
   + [Circle of time]({{< ref "/pages/Circle of time" >}})
 

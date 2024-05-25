@@ -2,8 +2,8 @@
 title: The problem of other mind
 tags:
 categories:
-date: 2024-02-15
-lastMod: 2024-02-21
+date: 2024-05-21
+lastMod: 2024-05-21
 ---
 ## The Space of All Possible Experiences
 

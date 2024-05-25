@@ -1,12 +1,12 @@
 ---
+icon: 🐾
 alias:
 - MDP
-icon: 🐾
 title: Markove decision process
 tags:
 categories:
-date: 2023-12-02
-lastMod: 2024-03-03
+date: 2024-05-21
+lastMod: 2024-05-21
 ---
 RL interaction Dynamics
 

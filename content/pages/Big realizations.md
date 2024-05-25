@@ -4,8 +4,8 @@ exclude-from-graph-view: true
 title: Big realizations
 tags:
 categories:
-date: 2023-12-02
-lastMod: 2024-02-15
+date: 2024-05-21
+lastMod: 2024-05-21
 ---
 
 
@@ -13,11 +13,11 @@ lastMod: 2024-02-15
 
   + [Idea of separation]({{< ref "/pages/Idea of separation" >}}) is an illusion.
 
-  + Time is an illusion. ( there is no time there is only [Unfolding]({{< ref "/pages/Unfolding" >}}) )
+  + [[Time]] is an illusion. ( there is no time there is only [Unfolding]({{< ref "/pages/Unfolding" >}}) )
 
   + We are not an exception to this nature. We are an example.
 
-  + The force of feeling and how we can avoid this by practicing Vespasian.
+  + The force of feeling and how we can avoid this by practicing [[Vespasian]].
 
   + ( not yet realized ) The world is dynamic. ( Becoming otherwise)
 

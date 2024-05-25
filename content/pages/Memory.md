@@ -2,8 +2,8 @@
 title: Memory
 tags:
 categories:
-date: 2023-12-02
-lastMod: 2024-02-21
+date: 2024-05-21
+lastMod: 2024-05-21
 ---
 How do our brain stores the information? it stores its information not in the form it captured it but in the form in which is the most useful for the future.
 
@@ -17,4 +17,6 @@ How do our brain stores the information? it stores its information not in the fo
 
     + Do it need a language?
 
-> Memory is just a [communication]({{< ref "/pages/communication" >}}) from past to future. #[Circle of time]({{< ref "/pages/Circle of time" >}})
+[[Memory is a communication]]
+
+[Hopfield Network]({{< ref "/pages/Hopfield Network" >}})

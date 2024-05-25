@@ -5,8 +5,8 @@ title: Transfer flexibility
 tags:
 categories:
 - Idea
-date: 2023-08-29
-lastMod: 2024-03-02
+date: 2024-05-21
+lastMod: 2024-05-21
 ---
 Adapting to novel environments is *transfer flexibility*.
 

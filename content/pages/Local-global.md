@@ -2,8 +2,8 @@
 title: Local-global
 tags:
 categories:
-date: 2023-12-02
-lastMod: 2024-02-23
+date: 2024-05-21
+lastMod: 2024-05-21
 ---
 ![image.png](/assets/image_1708685010824_0.png)
 
@@ -19,7 +19,7 @@ lastMod: 2024-02-23
 
   + Local $\to$ global :
 
-    + Dynamic programming
+    + [[Dynamic programming]]
 
     + **Ex.** all the types of *simulations*.
 
@@ -31,6 +31,6 @@ lastMod: 2024-02-23
 
   + 
 
-### Sub-representation and Local-Global #sub-representation
+### Sub-representation and Local-Global #[[sub-representation]]
 
   + ?

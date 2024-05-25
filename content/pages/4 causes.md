@@ -7,8 +7,8 @@ title: 4 causes
 tags:
 categories:
 - Idea
-date: 2023-12-12
-lastMod: 2024-02-21
+date: 2024-05-21
+lastMod: 2024-05-21
 ---
 {{video https://www.youtube.com/watch?v=zdEzyA2HGnY}}
 

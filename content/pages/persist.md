@@ -3,8 +3,8 @@ icon: 🦠
 title: persist
 tags:
 categories:
-date: 2023-12-02
-lastMod: 2024-02-21
+date: 2024-05-21
+lastMod: 2024-05-21
 ---
 Something exist because it exist.
 

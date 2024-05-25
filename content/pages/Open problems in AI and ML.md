@@ -4,8 +4,8 @@ tags:
 - Reinforcement Learning
 title: Open problems in AI and ML
 categories: Resource
-date: 2024-03-01
-lastMod: 2024-03-01
+date: 2024-05-21
+lastMod: 2024-05-21
 ---
 [A blog contains 29 Open problems in AI and ML.](https://omnivore.app/shrimansoft/unsolved-problems-in-ai-ai-forum-18df9724871)
 

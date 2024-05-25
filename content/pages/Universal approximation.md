@@ -2,8 +2,8 @@
 title: Universal approximation
 tags:
 categories:
-date: 2023-12-02
-lastMod: 2024-02-21
+date: 2024-05-21
+lastMod: 2024-05-21
 ---
 A **feedforward neural network (FNN)** is an [artificial neural network](https://www.wikiwand.com/en/Artificial_neural_network) wherein connections between the nodes do *not* form a cycle.
 

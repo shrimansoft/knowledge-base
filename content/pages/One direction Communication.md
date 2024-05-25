@@ -8,24 +8,24 @@ title: One direction Communication
 tags:
 categories:
 - Idea
-date: 2023-12-02
-lastMod: 2024-02-21
+date: 2024-05-21
+lastMod: 2024-05-21
 ---
 
 
-**File storage** : [communication]({{< ref "/pages/communication" >}}) from past to future. #Memory
+**File storage** : [[communication]] from past to future. #Memory
 
 
 
-In Space: we can do both direction [communication]({{< ref "/pages/communication" >}}) .
+In [[Space]]: we can do both direction [[communication]] .
 
-But in Time we can only do one direction [communication]({{< ref "/pages/communication" >}}).
+But in [[Time]] we can only do one direction [[communication]].
 
 
 
 I was listening to an audiobook (1984 by George Orwell). In that book, The character wanted to write a letter. but he doesn't have anyone to send this letter, 
 
-To whom I am going to write this latter. My Future.
+To whom I am going to write this latter to My Future.
 
 but he wondered how could he communicate with his future. 
 
@@ -41,7 +41,7 @@ Along the same line of thought, there is another fact about the communication. I
 
 **Storage devices**. Storming is the method of transmitting the information to the future. rather than the information just dying right now. This is how we transfer something to the future. #accumulation
 
-So, everything has the nature of transmitting information. since, I was wondering where I can get space and time into the structure I am building using reinforcement learning, agent, perception, consciousness, action-observation, and what is the thing between action and observation. Maybe nothing maybe the information processing system. So what is this information processing system, You and me? There are lot of questions in my mind and I am just writing them down. 
+So, everything has the nature of transmitting information. since, I was wondering where I can get space and time into the  structure I am building using reinforcement learning, agent, perception, consciousness, action-observation, and what is the thing between action and observation. Maybe nothing maybe the information processing system. So what is this information processing system, You and me? There are lot of questions in my mind and I am just writing them down. 
 
 Hoping, hoping, hoping..... that my mind will bloom by itself. It means I don't do any thing No there is something I need to do. Okay, so what do I need to do? I need to make my mind actively present on the situation, and environment and be wondering.  wondering about the thought. wondering about things. 
 

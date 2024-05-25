@@ -5,8 +5,8 @@ title: Evolvebility
 tags:
 categories:
 - concept
-date: 2023-08-29
-lastMod: 2024-03-02
+date: 2024-05-21
+lastMod: 2024-05-21
 ---
 Evolvebility is the ability of an organism to evolve. [^1]
 

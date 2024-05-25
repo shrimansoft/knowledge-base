@@ -2,10 +2,11 @@
 title: Diverse perceptron Nerual Network from Tools in RL.
 tags:
 categories:
-date: 2024-03-05
-lastMod: 2024-03-05
+date: 2024-05-21
+lastMod: 2024-05-21
 ---
-[Diverse perceptron Neural Network]({{< ref "/pages/Diverse perceptron Neural Network" >}})
+[Diverse perceptron in one Neural Network]({{< ref "/pages/Diverse perceptron in one Neural Network" >}})
+
 
 > *Question:* How will it do this?
 > *Answer:*  I don't know, but this blog gives some insight on this question.
